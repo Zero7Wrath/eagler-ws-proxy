@@ -1,5 +1,5 @@
 {
-  "name": "eagler-ws-proxy",
+  "name": "play",
   "main": "worker.js",
   "compatibility_date": "2026-08-12",
   "vars": {
